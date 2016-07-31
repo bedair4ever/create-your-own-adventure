@@ -25,3 +25,5 @@
 [قرار شجاع](tough-decision/tough-decision.md)
 
 [لتنبهر](amazed/amazed.md) توقف لحظة 
+
+[AZEX]https://www.facebook.com/AlAZharEXhibition/)معرض الازهر للتطبيقات الهندسية 
